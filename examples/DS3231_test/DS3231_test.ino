@@ -1,5 +1,5 @@
 /*
-DS3231_test.pde
+DS3231_test.ino
 Eric Ayars
 4/11
 
